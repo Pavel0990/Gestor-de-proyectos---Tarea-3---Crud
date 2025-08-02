@@ -1,0 +1,14 @@
+/Users/pavelabreu/GestorEstudiantes/bin/Debug/net9.0/GestorEstudiantes
+/Users/pavelabreu/GestorEstudiantes/bin/Debug/net9.0/GestorEstudiantes.deps.json
+/Users/pavelabreu/GestorEstudiantes/bin/Debug/net9.0/GestorEstudiantes.runtimeconfig.json
+/Users/pavelabreu/GestorEstudiantes/bin/Debug/net9.0/GestorEstudiantes.dll
+/Users/pavelabreu/GestorEstudiantes/bin/Debug/net9.0/GestorEstudiantes.pdb
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.AssemblyInfoInputs.cache
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.AssemblyInfo.cs
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.csproj.CoreCompileInputs.cache
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.dll
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/refint/GestorEstudiantes.dll
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.pdb
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.genruntimeconfig.cache
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/ref/GestorEstudiantes.dll
