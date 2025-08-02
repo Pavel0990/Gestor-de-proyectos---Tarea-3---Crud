@@ -62,8 +62,15 @@ namespace GestorEstudiantes
 
         static void AgregarEstudiante()
         {
-            Console.Write("Nombre: ");
-            string nombre = Console.ReadLine();
+            string nombre;
+        do
+            {
+    Console.Write("Nombre: ");
+    nombre = Console.ReadLine();
+    if (string.IsNullOrWhiteSpace(nombre))
+        Console.WriteLine("El nombre no puede estar vacío.");
+    } while (string.IsNullOrWhiteSpace(nombre));
+
 
             Console.Write("Edad: ");
             if (!int.TryParse(Console.ReadLine(), out int edad))
