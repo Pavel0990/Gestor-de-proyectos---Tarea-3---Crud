@@ -12,3 +12,4 @@
 /Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.pdb
 /Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.genruntimeconfig.cache
 /Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/ref/GestorEstudiantes.dll
+/Users/pavelabreu/GestorEstudiantes/obj/Debug/net9.0/GestorEstudiantes.sourcelink.json
